@@ -28,9 +28,3 @@ while count < 1000000: #run 1mil times
     time.sleep(.8)
     count += 1
     line = '|'
-    
-    
-
-
-
-    
