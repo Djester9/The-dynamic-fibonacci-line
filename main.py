@@ -25,6 +25,6 @@ while count < 1000000: #run 1mil times
     if is_fibonacci(count):
         line = ' |'
     print(line)
-    time.sleep(.8)
-    count += 1
+    time.sleep(.8)#slow print
+    count += 1#count goes up 1
     line = '|'
